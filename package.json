@@ -1,0 +1,33 @@
+{
+  "name": "zero-indexed-ulam-spiral",
+  "version": "0.0.1",
+  "description": "Calculate back and from a zero indexed Ulam spiral into a two dimensional lattice",
+  "main": "index.js",
+  "scripts": {
+    "test": "washington test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xaviervia/zero-indexed-ulam-spiral.git"
+  },
+  "keywords": [
+    "ulam",
+    "spiral",
+    "lattice",
+    "spiral",
+    "mathematics"
+  ],
+  "author": "Fernando Via Canel <fernando.via@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xaviervia/zero-indexed-ulam-spiral/issues"
+  },
+  "homepage": "https://github.com/xaviervia/zero-indexed-ulam-spiral#readme",
+  "dependencies": {
+    "triangular-numbers": "^0.0.1"
+  },
+  "devDependencies": {
+    "ramda": "^0.26.1",
+    "washington": "^2.0.0"
+  }
+}
