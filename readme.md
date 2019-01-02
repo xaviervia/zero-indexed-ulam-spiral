@@ -22,7 +22,7 @@ console.log(getSpiralIndexForCoordinates([5, 6]))
 
 Zero indexing is the most popular convention for indexes in programming. Either way, it’s really easy to transform.
 
-## What about primes?
+### What about primes?
 
 This library is about operating with the [pairing function](https://en.wikipedia.org/wiki/Pairing_function) from the lattice to the spiral and back. If you want to plot primes on top of it, it should be simple enough.
 
